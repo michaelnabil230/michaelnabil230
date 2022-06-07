@@ -39,6 +39,17 @@
             alt="michaelnabil230" height="30" width="40" />
     </a>
 </p>
+<h3 align="left">Support:</h3>
+<p>
+    <a href="https://www.buymeacoffee.com/michaelnabil230"> 
+         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michaelnabil230" />
+    </a>
+    <a href="https://ko-fi.com/michaelnabil230"> 
+        <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="michaelnabil230" />
+    </a>
+</p>
+<br><br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
