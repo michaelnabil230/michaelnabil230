@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Full Stack Web Developer
+    CEO and Founder of SmartPlan
 </h3>
 
 <br></br>
@@ -18,7 +18,7 @@
     </a>
 </p>
 
-- 🔭 I'm currently working on [Shaghf](https://shaghf.sa)
+- 🔭 I'm currently CEO and Founder of [SmartPlan](https://smartplan.sa)
 - 👀 I'm interested in great apps
 - 🌱 I'm currently learning to live
 - 💞️ I'm looking to collaborate on making money.
